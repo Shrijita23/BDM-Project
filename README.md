@@ -1,6 +1,6 @@
 # BDM Project: Business Analysis of Gainwell Commosales Private Limited
 
-This repository contains the full documentation and analysis of my Business Decision Making (BDM) project, conducted on Gainwell Commosales Private Limited. The aim of the project was to identify and resolve key business challenges faced by the company, including inventory issues and demand variations.
+This repository contains the full documentation and analysis of my Business Decision Making (BDM) project in Primary Submission route, conducted on Gainwell Commosales Private Limited. The aim of the project was to identify and resolve key business challenges faced by the company, including inventory issues and demand variations.
 
 ---
 
@@ -20,7 +20,7 @@ The project was developed and submitted in three stages:
 
 | Part | Description | Status |
 |------|-------------|--------|
-| 🟢 Primary Submission | Initial analysis of business structure and problem identification
+| 🟢 Proposal Submission | Initial analysis of business structure and problem identification
 | 🟡 Midterm Submission | In-depth research, data collection, and partial solution development
 | 🔵 Final Submission | Complete report with final solutions and implementation plans
 | 📊 Presentation | PowerPoint slides used for project presentation
